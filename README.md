@@ -18,7 +18,7 @@ My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on crea
 
 ## ✍🏼 Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on the telegram channel [@verystrangeIT](https://t.me/verystrangeIT).
+Apart from coding, I also maintain a blog - you can find my articles on the telegram channel [@dallings_lab](https://t.me/dallings_lab).
 
 A sample of my recent articles:
 
