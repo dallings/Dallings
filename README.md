@@ -37,7 +37,7 @@ A sample of my recent articles:
 ## ⚡️ GitHub Stats
 
 <a href="https://github.com/dallings/dallings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallings&title_color=2695ba&text_color=afbac6&icon_color=2695ba&bg_color=1d1f21&border_color=2695ba&card_width=350&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallings&title_color=2695ba&text_color=afbac6&icon_color=2695ba&bg_color=1d1f21&border_color=2695ba&card_width=370&langs_count=3" />
 </a>
 
 <a href="https://github.com/dallings/dallings">
