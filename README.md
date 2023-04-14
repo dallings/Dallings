@@ -44,14 +44,6 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dallings&show_icons=true&line_height=27&count_private=true&title_color=2695ba&text_color=c9cacc&icon_color=2695ba&bg_color=1d1f21" alt="Vladimir's GitHub Stats" />
 </a>
 
-<a href="https://github.com/dallings/wooordhunt-translate-parser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dallings&repo=wooordhunt-translate-parser&title_color=2695ba&text_color=c9cacc&icon_color=2695ba&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/dallings/timetable-telegram-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dallings&repo=timetable-telegram-bot&title_color=2695ba&text_color=c9cacc&icon_color=2695ba&bg_color=1d1f21" />
-</a>
-
 
 <!-- Resources -->
 <!-- icons: https://github.com/tandpfun/skill-icons -->
