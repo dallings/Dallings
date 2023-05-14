@@ -16,22 +16,12 @@ My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on crea
 <img align="center" alt="Sagar Choudhary Linkedin" width="28" src="https://raw.githubusercontent.com/dallings/dallings/master/icons/linkedin.svg" />
 </a>
 
-## ✍🏼 Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on the telegram channel [@dallings_lab](https://t.me/dallings_lab).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [coming soon...](https://)
-- [coming soon...](https://)
-- [coming soon...](https://)
-<!-- BLOG-POST-LIST:END -->
-
 ## 👨🏼‍💻 Technologies
+
 ![My Skills](https://skillicons.dev/icons?i=py,flask,bash,postgres,ansible,docker,nginx,git,html&theme=dark)
 
 ## 🔧 Tools
+
 ![Tools](https://skillicons.dev/icons?i=vscode,matlab,linux,github,stackoverflow,ps&theme=dark)
 
 ## ⚡️ GitHub Stats
