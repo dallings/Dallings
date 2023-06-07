@@ -4,12 +4,12 @@
 
 My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on creating various projects, specializing in automating infrastructure tasks. In the near future, I plan to start studying the DevOps technology stack and publishing my work. It's important to me not only to develop my skills but also to share my knowledge with other developers. I believe that continuous self-improvement and sharing of experience helps make our work more efficient and interesting.
 
-<a href='https://t.me/dallings'>
-<img align="left" width="28" alt="dallings Telegram" src="icons/telegram.svg" />
+<a href='https://t.me/vdbogdanov'>
+<img align="left" width="28" alt="vdbogdanov Telegram" src="icons/telegram.svg" />
 </a>
 
 <a href="mailto:vd.bogdanov@linuxdev.ru">
-<img align="left" width="28" alt="dallings Mail" src="icons/mail.svg" />
+<img align="left" width="28" alt="vdbogdanov Mail" src="icons/mail.svg" />
 </a>
 
 <a href='https://www.linkedin.com/in/dallings'>
@@ -26,12 +26,12 @@ My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on crea
 
 ## ⚡️ GitHub Stats
 
-<a href="https://github.com/dallings/dallings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dallings&show_icons=true&line_height=27&count_private=true&title_color=2695ba&text_color=afbac6&icon_color=2695ba&bg_color=1d1f21&border_color=2695ba&card_width=375" />
+<a href="https://github.com/vdbogdanov/vdbogdanov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vdbogdanov&show_icons=true&line_height=27&count_private=true&title_color=2695ba&text_color=afbac6&icon_color=2695ba&bg_color=1d1f21&border_color=2695ba&card_width=375" />
 </a>
 
-<a href="https://github.com/dallings/dallings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallings&langs_count=3&title_color=2695ba&text_color=afbac6&icon_color=2695ba&bg_color=1d1f21&border_color=2695ba&card_width=375" />
+<a href="https://github.com/vdbogdanov/vdbogdanov"">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdbogdanov&langs_count=3&title_color=2695ba&text_color=afbac6&icon_color=2695ba&bg_color=1d1f21&border_color=2695ba&card_width=375" />
 </a>
 
 
