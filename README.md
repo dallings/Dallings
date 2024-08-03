@@ -8,7 +8,7 @@ My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on crea
 <img align="left" width="28" alt="vdbogdanov Telegram" src="icons/telegram.svg" />
 </a>
 
-<a href="mailto:vd.bogdanov@linuxdev.ru">
+<a href="mailto:v.d.bogdanov@yandex.ru">
 <img align="left" width="28" alt="vdbogdanov Mail" src="icons/mail.svg" />
 </a>
 
