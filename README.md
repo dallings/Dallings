@@ -9,7 +9,7 @@ My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on crea
 </a>
 
 <a href="mailto:v.d.bogdanov@yandex.ru">
-<img align="left" width="28" alt="vdbogdanov Mail" src="icons/mail.svg" />
+<img align="center" width="28" alt="vdbogdanov Mail" src="icons/mail.svg" />
 </a>
 
 ## 👨🏼‍💻 Technologies
