@@ -12,10 +12,6 @@ My name is Vladimir Bogdanov and I am a developer/linux engineer. I work on crea
 <img align="left" width="28" alt="vdbogdanov Mail" src="icons/mail.svg" />
 </a>
 
-<a href='https://www.linkedin.com/in/dallings'>
-<img align="center" alt="Sagar Choudhary Linkedin" width="28" src="icons/linkedin.svg" />
-</a>
-
 ## 👨🏼‍💻 Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=py,flask,bash,postgres,ansible,docker,nginx,git,html&theme=dark)
